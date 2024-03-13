@@ -1,0 +1,12 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-51-bali/tree/main/pileg-dpr/hitung-suara/sub/51-bali/sub/02-tabanan/sub/06-kediri/sub/2002-pangkung-tibah/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-51-bali/tree/main/pileg-dpr/hitung-suara/sub/51-bali/sub/02-tabanan/sub/06-kediri/sub/2002-pangkung-tibah/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-51-bali/tree/main/pileg-dpr/hitung-suara/sub/51-bali/sub/02-tabanan/sub/06-kediri/sub/2002-pangkung-tibah/sub/003-tps)
+ | 
+[TPS 004](https://github.com/gigit-pemilu/pemilu-2024-51-bali/tree/main/pileg-dpr/hitung-suara/sub/51-bali/sub/02-tabanan/sub/06-kediri/sub/2002-pangkung-tibah/sub/004-tps)
+
